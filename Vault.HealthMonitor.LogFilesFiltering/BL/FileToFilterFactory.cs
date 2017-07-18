@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Windows.Storage;
 using Windows.UI.Popups;
+using System.Collections;
 
 namespace Vault.HealthMonitor.LogFilesFiltering.BL
 {
